@@ -1,6 +1,6 @@
 # DIRK(-REF)
 
-This is the implementation of our AAAI'24 paper (Distilling Reliable Knowledge for Instance-dependent Partial Label Learning).
+This is the implementation of our AAAI'24 paper (**DI**stilling **R**eliable **K**nowledge for Instance-dependent Partial Label Learning).
 
 Requirements: 
 Python 3.8.12, 
